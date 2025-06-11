@@ -191,7 +191,7 @@ ax2.set_ylabel('')
 ax2.set_ylabel(
     r"a)Normalized transmittance @ 260 nm" + "\n" +
     "b) $P\,(\mathrm{bound \,state})$" + "\n" +
-    "c) Fraction bounded",
+    "c) Fraction of hydrogen bonds formed",
     fontsize=12
 )
 #ax2.set_yticks([])
